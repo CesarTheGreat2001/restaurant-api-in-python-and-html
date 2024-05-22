@@ -1,0 +1,134 @@
+Company,CEO,Number of Restaurants (Millions),Most Famous Dish,Type of Restaurant,City,State,Yearly Revenue (Millions USD)
+Burger King,Daniel Schwartz,18.541,Whopper,Fast Food,Miami,Florida,10204.0
+Wendy's,Todd A. Penegor,6.75,Dave's Single,Fast Food,Columbus,Ohio,1066.0
+Subway,John Chidsey,41.018,Subway Club,Sandwich,Bridgeport,Connecticut,10400.0
+KFC (Kentucky Fried Chicken),Tony Lowings,24.699,Original Recipe Chicken,Fast Food,Louisville,Kentucky,4600.0
+Chick-fil-A,Dan T. Cathy,2.5,Chick-fil-A Chicken Sandwich,Fast Food,Atlanta,Georgia,10000.0
+Pizza Hut,David W. Gibbs,18.241,Pan Pizza,Pizza,Wichita,Kansas,5695.0
+Domino's Pizza,Richard Allison,17.894,Pepperoni Pizza,Pizza,Ypsilanti,Michigan,3316.0
+Panera Bread,Niren Chaudhary,2.256,Broccoli Cheddar Soup,Bakery,St. Louis,Missouri,2930.0
+Dunkin' Donuts,Dave Hoffmann,13.0,Donuts,Dessert,Quincy,Massachusetts,1320.0
+Starbucks,Kevin Johnson,33.0,Coffee,Coffee Shop,Seattle,Washington,28000.0
+IHOP (International House of Pancakes),John M. Peyton,1.8,Pancakes,Breakfast,Glendale,California,365.0
+Denny's,John Miller,1.716,Grand Slam Breakfast,Diner,Spartanburg,South Carolina,1595.0
+Applebee's,John Cywinski,1.838,Riblets,Casual Dining,Kansas City,Missouri,2140.0
+Chili's,Wyman Roberts,1.572,Baby Back Ribs,Casual Dining,Dallas,Texas,3100.0
+Red Lobster,Kim Lopdrup,0.7,Cheddar Bay Biscuits,Seafood,Orlando,Florida,2500.0
+Buffalo Wild Wings,Paul Brown,1.298,Wings,Sports Bar,Columbus,Ohio,2483.0
+TGI Fridays,Ray Blanchette,0.5,Loaded Potato Skins,Casual Dining,Dallas,Texas,2000.0
+Cracker Barrel,Sandra B. Cochran,0.66,Chicken n' Dumplins,Country,Lebanon,Tennessee,3000.0
+Texas Roadhouse,Jerry Morgan,0.61,Hand-Cut Steaks,Steakhouse,Louisville,Kentucky,2042.0
+Outback Steakhouse,David Deno,0.732,Bloomin' Onion,Steakhouse,Tampa,Florida,2498.0
+Olive Garden,David George,0.9,Breadsticks,Italian,Orlando,Florida,4135.0
+LongHorn Steakhouse,Todd Burrowes,0.528,Flo's Filet,Steakhouse,Orlando,Florida,1469.0
+Cheesecake Factory,David M. Overton,0.294,Cheesecake,Casual Dining,Calabasas Hills,California,2485.0
+Carrabba's Italian Grill,Michael Kappitt,0.235,Chicken Bryan,Italian,Tampa,Florida,746.0
+Red Robin,Paul J.B. Murphy III,0.575,Gourmet Burgers,Casual Dining,Greenwood Village,Colorado,1425.0
+The Capital Grille,Eugene Lee,0.058,Dry-Aged Steaks,Fine Dining,Orlando,Florida,392.0
+Ruth's Chris Steak House,Harold Rosser,0.159,Filet,Fine Dining,Winter Park,Florida,349.0
+Bonefish Grill,David Schmidt,0.182,Bang Bang Shrimp,Seafood,Tampa,Florida,1044.0
+P.F. Chang's,Damola Adamolekun,0.21,Lettuce Wraps,Asian,Scottsdale,Arizona,1146.0
+Yard House,Kipp D. Stewart,0.081,Jumbo Bavarian Pretzel,Casual Dining,Orlando,Florida,882.0
+Shake Shack,Randy Garutti,0.275,ShackBurger,Fast Casual,New York City,New York,712.0
+Jimmy John's,James North,2.9,Gourmet Sandwiches,Fast Casual,Champaign,Illinois,2160.0
+Jersey Mike's Subs,Peter Cancro,2.0,Sub Sandwiches,Sandwich,Manasquan,New Jersey,1275.0
+Sonic Drive-In,Claudia San Pedro,3.6,Cherry Limeade,Fast Food,Oklahoma City,Oklahoma,4415.0
+Whataburger,Ed Nelson,0.8,Whataburger,Fast Food,San Antonio,Texas,2277.0
+Taco Bell,Mark King,7.0,Tacos,Fast Food,Irvine,California,2300.0
+Papa John's Pizza,Rob Lynch,5.0,Pizzas,Pizza,Jeffersontown,Kentucky,1925.0
+Chipotle Mexican Grill,Brian Niccol,2.7,Burritos,Mexican,Newport Beach,California,631.0
+Cracker Barrel Old Country Store,Sandra B. Cochran,0.66,Chicken n' Dumplins,Country,Lebanon,Tennessee,3052.0
+Chili's Grill & Bar,Wyman Roberts,1.572,Baby Back Ribs,Casual Dining,Dallas,Texas,3224.0
+Morton's The Steakhouse,Timothy T. Whitlock,0.074,Steaks,Fine Dining,Houston,Texas,303.0
+Hard Rock Cafe,James F. Allen,0.185,Burgers,Casual Dining,Orlando,Florida,314.0
+BJ's Restaurant & Brewhouse,Greg Trojan,0.209,Deep Dish Pizza,Casual Dining,Huntington Beach,California,1368.0
+Hooters,Sal Melilli,0.2,Wings,Casual Dining,Atlanta,Georgia,931.0
+Maggiano's Little Italy,Wyman Roberts,0.051,Pasta,Italian,Dallas,Texas,381.0
+Bubba Gump Shrimp Co.,Jim Kelley,0.043,Shrimp Dishes,Seafood,Houston,Texas,240.0
+Fogo de ChÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o,Barry McGowan,0.067,Churrasco,Brazilian Steakhouse,Addison,Texas,363.0
+Waffle House,Walt Ehmer,0.2,Waffles,Breakfast,Norcross,Georgia,1090.0
+Crave Real Burgers,Jeff Richard,0.004,Gourmet Burgers,Fast Casual,Castle Rock,Colorado,12.0
+Blaze Pizza,Margo Zeile,0.34,Customizable Pizzas,Pizza,Pasadena,California,280.0
+California Pizza Kitchen,Jim Hyatt,0.2,California Club Pizza,Pizza,Playa Vista,California,725.0
+The Melting Pot,Dipak Israni,0.01,Fondue,Fine Dining,Tampa,Florida,150.0
+Joe's Crab Shack,Robert T. Merritt,0.15,Crab Buckets,Seafood,Houston,Texas,211.0
+Yard House,Kipp D. Stewart,0.081,Jumbo Bavarian Pretzel,Casual Dining,Orlando,Florida,882.0
+Olive & Ivy,Fox Restaurant Concepts,0.02,Mediterranean Cuisine,Fine Dining,Scottsdale,Arizona,120.0
+Gordon Biersch Brewery Restaurant,Dan Gordon,0.025,Craft Beer,Brewpub,San Jose,California,121.0
+Buffalo Wings & Rings,Nader Masadeh,0.07,Wings,Sports Bar,Cincinnati,Ohio,280.0
+Logan's Roadhouse,Hazem Ouf,0.181,Mesquite-Grilled Steaks,Steakhouse,Nashville,Tennessee,715.0
+Carrabba's Italian Grill,Michael Kappitt,0.235,Chicken Bryan,Italian,Tampa,Florida,746.0
+Maggiano's Little Italy,Wyman Roberts,0.051,Pasta,Italian,Dallas,Texas,381.0
+The Cheesecake Factory,David M. Overton,0.294,Cheesecake,Casual Dining,Calabasas Hills,California,2485.0
+Roy's Restaurant,Judy C. Reinhardt,0.005,Hawaiian Fusion Cuisine,Fine Dining,Aiea,Hawaii,103.0
+California Dreaming,Jim Hyatt,0.011,Prime Rib,Casual Dining,Charleston,South Carolina,54.0
+Johnny Rockets,Robert P. S. Levy,0.3,Burgers and Shakes,Casual Dining,Aliso Viejo,California,320.0
+Fleming's Prime Steakhouse & Wine Bar,Anthony J. Barr,0.069,Dry-Aged Steaks,Fine Dining,Tampa,Florida,234.0
+Ruby Tuesday,Shawn Lederman,0.199,Endless Garden Bar,Casual Dining,Maryville,Tennessee,800.0
+Fazoli's,Carl T. Howard,0.218,Unlimited Breadsticks,Italian,Lexington,Kentucky,156.0
+Boston Market,Eric Wyatt,0.33,Rotisserie Chicken,Fast Casual,Golden,Colorado,772.0
+Golden Corral,Lance Trenary,0.5,Buffet,Buffet,Raleigh,North Carolina,2112.0
+Black Angus Steakhouse,Chris Ames,0.05,Steaks,Steakhouse,Sherman Oaks,California,220.0
+Jack in the Box,Darren Harris,0.22,Tacos,Fast Food,San Diego,California,1832.0
+Carl's Jr.,Jason Marker,0.142,Western Bacon Cheeseburger,Fast Food,Franklin,Tennessee,1010.0
+Hardee's,Jason Marker,0.187,Thickburgers,Fast Food,St. Louis,Missouri,1170.0
+Bob Evans,Saed Mohseni,0.343,Sausage Gravy and Biscuits,Casual Dining,New Albany,Ohio,891.0
+Perkins Restaurant & Bakery,Jeff Warne,0.298,Pancakes,Casual Dining,Memphis,Tennessee,500.0
+Friendly's,George Michel,0.13,Ice Cream,Casual Dining,Wilbraham,Massachusetts,269.0
+Golden Chick,Jim Stevens,0.2,Golden Tenders,Fast Food,Richardson,Texas,400.0
+Culver's,Joe Koss,0.075,ButterBurgers,Fast Casual,Prairie du Sac,Wisconsin,710.0
+Tim Hortons,Axel Schwan,0.035,Timbits,Coffee Shop,Toronto,Ontario,291.0
+Moe's Southwest Grill,Bruce Schroder,0.72,Burritos,Mexican,Atlanta,Georgia,740.0
+Zaxby's,Zach McLeroy,0.9,Chicken Fingers,Fast Food,Athens,Georgia,2250.0
+Bojangles' Famous Chicken 'n Biscuits,Jose Armario,0.77,Fried Chicken,Fast Food,Charlotte,North Carolina,1700.0
+Church's Chicken,Joe Christina,1.5,Fried Chicken,Fast Food,Atlanta,Georgia,1367.0
+Freddy's Frozen Custard & Steakburgers,Randy Simon,0.38,Steakburgers,Fast Casual,Wichita,Kansas,707.0
+Cook Out,Jeremy Reaves,0.3,Burgers and Milkshakes,Fast Food,Thomasville,North Carolina,432.0
+Krispy Kreme,Mike Tattersfield,0.12,Doughnuts,Dessert,Winston-Salem,North Carolina,1142.0
+Sonic Drive-In,Claudia San Pedro,3.6,Cherry Limeade,Fast Food,Oklahoma City,Oklahoma,4415.0
+Dutch Bros Coffee,Travis Boersma,0.5,Coffee,Coffee Shop,Grants Pass,Oregon,462.0
+Milo's Hamburgers,Tom Dekle,0.1,Milo's Burger,Fast Food,Birmingham,Alabama,100.0
+Tommy's Burger Stop,Tommy Ross,0.05,Tommy's Burger,Fast Food,Anchorage,Alaska,50.0
+Filiberto's Mexican Food,Filiberto Cota,0.2,Carne Asada Burrito,Mexican,Phoenix,Arizona,20.0
+Slim Chickens,Tom Gordon,0.5,Chicken Tenders,Fast Casual,Fayetteville,Arkansas,30.0
+In-N-Out Burger,Lynsi Snyder,0.37,Double-Double Burger,Fast Food,Baldwin Park,California,3.5
+Duchess,Gene Burke,0.1,Hamburger,Fast Food,Wallingford,Connecticut,25.0
+Capriotti's Sandwich Shop,David Bloom,0.11,The Bobbie,Sandwich,Wilmington,Delaware,22.5
+Pollo Tropical,Richard Stockinger,0.14,Citrus-Marinated Grilled Chicken,Fast Casual,Miami,Florida,12.6
+Zippy's,Jason Higa,0.24,Zip Pac,Casual Dining,Honolulu,Hawaii,55.2
+Boise Fry Company,Blake Lingle,0.02,Hand-cut fries,Fast Casual,Boise,Idaho,4.8
+Cafe Italia,Giuseppe Razzino,0.04,Pasta Carbonara,Italian,El Paso,Texas,8.1
+Portillo's,Michael Osanloo,0.067,Chicago-style hot dog,Casual Dining,Chicago,Illinois,250.0
+Steak 'n Shake,Sardar Biglari,0.04,Steakburger,Fast Casual,Indianapolis,Indiana,50.0
+Maid-Rite,Brad Burt,0.08,Loose Meat Sandwich,Fast Casual,Des Moines,Iowa,12.5
+Freddy's Frozen Custard & Steakburgers,Randy Simon,0.38,Steakburger,Fast Casual,Wichita,Kansas,65.2
+Raising Cane's Chicken Fingers,Todd Graves,0.52,Chicken Fingers,Fast Food,Baton Rouge,Louisiana,40.5
+Popeyes Louisiana Kitchen,Cheryl Bachelder,0.3,Fried Chicken,Fast Food,New Orleans,Louisiana,60.2
+Jimmy Buffett's Margaritaville,John Cohlan,0.07,Cheeseburger in Paradise,Casual Dining,Key West,Florida,45.7
+The Rainforest Cafe,Steven Schussler,0.05,Volcano Nachos,Casual Dining,Bloomington,Minnesota,30.1
+Highroller Lobster Co.,Andy Gerry,0.03,Lobster Roll,Seafood,Portland,Maine,15.3
+Boardwalk Fries,Adam Kidari,0.1,Boardwalk Fries,Fast Food,Ocean City,Maryland,8.5
+Leo's Coney Island,Leo Stassinopoulos,0.15,Coney Dog,Casual Dining,Detroit,Michigan,16.7
+Dairy Queen,Troy Bader,6.8,Blizzard,Fast Food,Bloomington,Minnesota,3.6
+Lion's Choice,Michael Kupstas,0.1,Roast Beef Sandwich,Fast Food,St. Louis,Missouri,8.9
+Pickel Barrel,Randy Smith,0.05,Prime Rib,Casual Dining,Great Falls,Montana,4.3
+Runza,Mike Runyan,0.05,Runza Sandwich,Fast Food,Lincoln,Nebraska,6.2
+Port of Subs,Ryan McGeeney,0.15,Italian Sub,Sandwich,Reno,Nevada,28.0
+Mr. Mac's Macaroni & Cheese,Patrick Cain,0.02,Build-Your-Own Macaroni & Cheese,Fast Casual,Manchester,New Hampshire,10.0
+Jersey Mike's Subs,Peter Cancro,2.0,Sub Sandwiches,Sandwich,Manasquan,New Jersey,120.0
+Blake's Lotaburger,Brian Rule,0.7,Green Chile Cheeseburger,Fast Food,Albuquerque,New Mexico,30.0
+Shake Shack,Randy Garutti,0.275,ShackBurger,Fast Casual,New York City,New York,80.0
+Space Aliens Grill & Bar,Mark Bialas,0.08,Alien Burger,Casual Dining,Bismarck,North Dakota,6.3
+Skyline Chili,Jude Brannon,0.2,3-Way Chili,Fast Casual,Cincinnati,Ohio,45.6
+Burgerville,Tom Mears,0.04,Tillamook Cheeseburger,Fast Food,Vancouver,Oregon,7.8
+Wawa,Chris Gheysens,0.9,Hoagies,Convenience Store,Wawa,Pennsylvania,12.4
+Olneyville New York System,Greg Stevens,0.05,New York System Hot Wiener,Fast Food,Providence,Rhode Island,5.1
+Gilberto's Mexican Food,Gilberto Cota,0.15,Carne Asada Fries,Mexican,Tucson,Arizona,18.0
+Krystal,Paul Macaluso,0.3,Krystal Burger,Fast Food,Atlanta,Georgia,50.0
+Crown Burgers,Raj Singh,0.06,Crown Burger,Fast Food,Salt Lake City,Utah,15.0
+Al's French Frys,Tom Sengupta,0.01,French fries,Fast Food,Burlington,Vermont,5.0
+Biscuitville,Kathleen Wright,0.05,Country Ham Biscuit,Fast Food,Greensboro,North Carolina,10.0
+Dick's Drive-In,Jim Spady,0.05,Dick's Deluxe Burger,Fast Food,Seattle,Washington,15.0
+Tudor's Biscuit World,Joe Holland,0.09,Country Ham Biscuit,Fast Food,Charleston,West Virginia,18.0
+Ben's Chili Bowl,Kamal Ali,0.015,Chili Half-Smoke,Casual Dining,"Washington, D.C.",District of Columbia,20.0
+ramita,David Quintero,2,Taco de Coliflor,Mexican,Chihuahua,Chihuahua,300

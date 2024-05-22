@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Data Management</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Add New Entry</h2>
+        <form action="/add" method="post">
+            <input type="text" name="company" placeholder="Company" required>
+            <input type="number" name="index" placeholder="Index" required>
+            <input type="text" name="ceo" placeholder="CEO" required>
+            <input type="number" name="number_of_restaurants" placeholder="Number of Restaurants (Millions)" step="0.01" required>
+            <input type="text" name="most_famous_dish" placeholder="Most Famous Dish" required>
+            <input type="text" name="type_of_restaurant" placeholder="Type of Restaurant" required>
+            <input type="text" name="city" placeholder="City" required>
+            <input type="text" name="state" placeholder="State" required>
+            <input type="number" name="yearly_revenue" placeholder="Yearly Revenue (Millions USD)" step="0.01" required>
+            <button type="submit">Add</button>
+        </form>
+
+        <h2>Delete Entry</h2>
+        <form action="/delete" method="post">
+            <input type="number" name="delete_index" placeholder="Row index to delete" required>
+            <button type="submit">Delete</button>
+        </form>
+
+        <h2>Modify Entry</h2>
+        <form action="/modify" method="post">
+            <input type="number" name="modify_index" placeholder="Row index to modify" required>
+            <input type="text" name="company" placeholder="Company">
+            <input type="text" name="ceo" placeholder="CEO">
+            <input type="number" name="number_of_restaurants" placeholder="Number of Restaurants (Millions)" step="0.01">
+            <input type="text" name="most_famous_dish" placeholder="Most Famous Dish">
+            <input type="text" name="type_of_restaurant" placeholder="Type of Restaurant">
+            <input type="text" name="city" placeholder="City">
+            <input type="text" name="state" placeholder="State">
+            <input type="number" name="yearly_revenue" placeholder="Yearly Revenue (Millions USD)" step="0.01">
+            <button type="submit">Modify</button>
+        </form>
+
+        <h1>Data Table</h1>
+        <div>
+            {% for table in tables %}
+            <h2>{{ titles[loop.index] }}</h2>
+            <div class="hover-effect">{{ table | safe }}</div>
+            {% endfor %}
+        </div>
+
+        <div class="pagination">
+            {% if page > 1 %}
+                <a href="/?page={{ page - 1 }}">&laquo; Previous</a>
+            {% endif %}
+            <span>Page {{ page }} of {{ total_pages }}</span>
+            {% if page < total_pages %}
+                <a href="/?page={{ page + 1 }}">Next &raquo;</a>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>
